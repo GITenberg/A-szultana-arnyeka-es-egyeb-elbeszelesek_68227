@@ -1,0 +1,25 @@
+_repo: A-szultana-arnyeka-es-egyeb-elbeszelesek_68227
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pekár, Gyula
+    gutenberg_agent_id: '54666'
+    url: http://www.gutenberg.org/2009/agents/54666
+description: ''
+gutenberg_issued: '2022-06-04'
+identifiers:
+  gutenberg: '68227'
+language: hu
+pgterms:marc905: 20220602142148pekr
+pgterms:marc906: '1905'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: Hungary :Franklin-Társulat,1905.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A szultána árnyéka és egyéb elbeszélések
+url: http://www.gutenberg.org/ebooks/68227
